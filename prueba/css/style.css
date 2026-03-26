@@ -1,0 +1,58 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    border: solid 2px black;
+}
+
+.nav{
+    background-color: gray;
+    justify-content: center;
+    display: flex;
+    border: solid 2px black;
+}
+
+.item{
+    font-size: medium;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aside{
+    background-color: azure;
+    margin: 15px;
+    padding: 10px;
+    border: solid 2px black;
+}
+
+.section{
+    background-color: aliceblue;
+    margin: 15px;
+    padding: 10px;
+    font-size: x-large;
+    border: solid 2px black;
+}
+
+.article{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    background-color:aliceblue;
+    border: solid 2px black;
+}
+
+.footer{
+    padding: 10px;
+    background-color:beige;
+    border: solid 2px black;
+}
